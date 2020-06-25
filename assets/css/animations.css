@@ -3,4 +3,12 @@
     transform: translateX(0) scale(1.3) ;
 }
 
+.faculImg:hover{
+    transition: transform 0.5s;
+    transform: translateX(0) scale(5);
+}
 
+.faculImg{
+    transition: transform 0.1s;
+    transform: translateX(0) scale(1);
+}

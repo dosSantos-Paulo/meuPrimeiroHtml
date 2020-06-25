@@ -5,16 +5,6 @@ body{
     text-align: justify;
 }
 
-
-.minhaFoto{
-    margin-left: 1%;
-    border-radius: 10%;
-    display: block;
-    width: 30%;
-    float: right;
-    filter: grayscale(80%);
-}
-
 h1{
     font-family: sans-serif;
 }
