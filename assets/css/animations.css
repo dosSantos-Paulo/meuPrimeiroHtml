@@ -1,0 +1,6 @@
+.footerIcon:hover{
+    transition: transform 1s;
+    transform: translateX(0) scale(1.3) ;
+}
+
+
