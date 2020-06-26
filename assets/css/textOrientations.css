@@ -22,6 +22,12 @@ h1{
 .subtitulo{
     margin-top: 10%;
 }
+.projetos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
 
 footer{
     margin-top: 10%;

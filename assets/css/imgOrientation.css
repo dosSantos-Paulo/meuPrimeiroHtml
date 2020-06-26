@@ -1,8 +1,8 @@
 .minhaFoto{
     margin-left: 1%;
-    border-radius: 10%;
+    border-radius: 50%;
     display: block;
-    width: 30%;
+    width: 25%;
     float: right;
     filter: grayscale(80%);
 }
@@ -10,4 +10,11 @@
 .faculImg{
     width: 100px;
     margin: 20px;
+}
+
+.tumbnail{
+    width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10%;
 }
