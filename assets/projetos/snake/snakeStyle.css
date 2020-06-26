@@ -1,17 +1,21 @@
 body{
     background-color: black;
-    align-items: center;
+    /* align-items: center; */
     height: 95vh;
     width: 96vh;
     margin-left: auto;
     margin-right: auto;
     display: flex;
-    justify-content: center;
-    flex-direction: column;
+   /*  justify-content: center;
+    flex-direction: column; */
 }
 h1{
     color: white;
     font-family: fantasy;
+}
+.canvas{
+    display: flex;
+    top: 10cm;
 }
 a{
     color: white;
@@ -27,3 +31,29 @@ a:visited{
 a:link{
     text-decoration: none;
 }
+a:hover{
+    filter: opacity(50%) ;
+}
+
+h2{
+    color: white;
+    display: flex;
+    margin-top: 20%;
+    margin-bottom: 5%;
+    text-align: center;
+    justify-content: center;
+}
+.contactIcon {
+    width: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.contactIcon{
+    filter: grayscale(100%);
+}
+
+.contactIcon:hover{
+    filter: grayscale(0%);
+}
+

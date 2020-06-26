@@ -5,8 +5,13 @@ body{
     text-align: justify;
 }
 
-h1{
-    font-family: sans-serif;
+
+h2{
+    display: flex;
+    margin-top: 20%;
+    margin-bottom: 5%;
+    text-align: center;
+    justify-content: center;
 }
 
 .sobreMin{

@@ -26,3 +26,11 @@
     transition: transform 0.1s;
     transform: translateX(0) scale(1) ;
 }
+
+.contactIcon{
+    filter: grayscale(100%);
+}
+
+.contactIcon:hover{
+    filter: grayscale(0%);
+}
